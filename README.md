@@ -1,0 +1,2 @@
+# Method-for-Preventing-Artificial-Intelligence-Generated-Hallucinations-Unsupported-Outputs
+Systems and Methods for Preventing Artificial-Intelligence-Generated Hallucinations, Unsupported Outputs, Stale Outputs, and Unsafe Agentic Acts from Becoming External Consequences Using Candidate-Act Finality, Consequence Simulation, Escalated Conditional Finality, and Cryptographic Execution-Dependency Non-Completability
