@@ -1,4 +1,4 @@
-# Methods for Preventing AI Generated Hallucinations Unsupported-Outputs
+# Methods for Preventing AI Generated Hallucinations and Unsupported-Outputs
 Systems and Methods for Preventing Artificial-Intelligence-Generated Hallucinations, Unsupported Outputs, Stale Outputs, and Unsafe Agentic Acts from Becoming External Consequences Using Candidate-Act Finality, Consequence Simulation, Escalated Conditional Finality, and Cryptographic Execution-Dependency Non-Completability
 Disclosed are systems and methods for Agentic AI Security in Autonomous AI Agents, Agentic
 Workflows, and LLM Copilots. An AI-generated tool call, payment instruction, database update,
